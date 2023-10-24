@@ -144,6 +144,10 @@ Based on the labels applied to the issue, it may be closed for the following rea
 - `kind/question` are automatically closed after 8 days with no activity
 - closed issues have `status/5-frozen-due-to-age` applied automatically after 30 days of no activity
 
+## Abuse reports
+
+According to our [Code of Conduct](https://github.com/traefik/traefik/blob/master/CODE_OF_CONDUCT.md), [abuse reports](https://github.com/traefik/traefik/reported_content) should be handled during the triage process as well.
+
 ## Footnotes
 
 ### Support Requests: Channels
